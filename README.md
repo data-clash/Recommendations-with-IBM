@@ -66,8 +66,8 @@ Finally, I completed a machine learning approach to build recommendations. Using
 Anuja Jadhav
 
 https://github.com/data-clash/
-www.linkedin.com/in/anuja-jadhav-80632a54
-anuja.a.jadhav@gmail.com
+<br>www.linkedin.com/in/anuja-jadhav-80632a54
+<br>anuja.a.jadhav@gmail.com
 
 <a name="license"></a>
 ## License
