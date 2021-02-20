@@ -17,12 +17,12 @@ For this project I have analyzed the interactions that users have with articles 
 <a name="dependencies"></a>
 ## Dependencies
 The code in the project can be executed using Anaconda distribution of Python ver 3.x and does not require any additional scripts.
-Open the notebook in Jupyter Notebook to execute the Recommendations_with_IBM.ipynb file
-Python 3.5+
-Machine Learning Libraries: NumPy, Pandas
-Visualization Libraries: matplotlib.pyplot
-Custom Test Python Script : project_tests.py
-Python pickle module is used for serializing and de-serializing a Python object structure. : pickle
+<br>Open the notebook in Jupyter Notebook to execute the Recommendations_with_IBM.ipynb file
+<br>Python 3.5+
+<br>Machine Learning Libraries: NumPy, Pandas
+<br>Visualization Libraries: matplotlib.pyplot
+<br>Custom Test Python Script : project_tests.py
+<br>Python pickle module is used for serializing and de-serializing a Python object structure. : pickle
 
 <a name="data"></a>
 ## Data Source
